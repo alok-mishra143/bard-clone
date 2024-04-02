@@ -1,0 +1,64 @@
+.genzbot-about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+main section {
+  margin-bottom: 30px;
+}
+
+main h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+main p {
+  line-height: 1.6;
+}
+
+main ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.genzbot-footer {
+  padding: 20px;
+  border-top: 2px solid #ccc;
+}
+
+.social-media {
+  margin-bottom: 20px;
+}
+
+.social-media a {
+  color: #ff0000;
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.social-media a:hover {
+  color: #007bff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
