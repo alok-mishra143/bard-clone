@@ -4,7 +4,6 @@ Sure, here's a template for a README file for your GitHub project:
 
 # Google Bard Clone
 
-![Project Image](project_image.png)
 
 A clone of Google Bard with MongoDB integration for sending contact form messages.
 
@@ -35,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/google-bard-clone.git
+   https://github.com/alok-mishra143/bard-clone.git
    ```
 
 2. Install dependencies:
@@ -53,7 +52,7 @@ To run this project locally, follow these steps:
 4. Start the server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your web browser and navigate to `http://localhost:3000` to view the project.
